@@ -1,7 +1,7 @@
-#E-shop-Laravel
+# E-shop-Laravel
 
-##Trang chủ
+## Trang chủ
 ![Menu](/Image/HomePage.png)
 
-##Đăng ký
+## Đăng ký
 ![Menu](/Image/SignUp.png)
