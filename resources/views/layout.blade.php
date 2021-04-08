@@ -190,24 +190,24 @@
                             <div class="item active">
                                 <div class="col-sm-6">
                                     <h1><span>TP</span>-SHOP</h1>
-                                    <h2>Iphone 12 Pro Max</h2>
+                                    <h2>PS4</h2>
                                     <p>Hiệu năng vượt xa mọi giới hạn</p>
                                     <!-- <button type="button" class="btn btn-default get">Get it now</button> -->
                                 </div>
                                 <div class="col-sm-6">
-                                    <img src="{{('public/frontend/images/iphone.jpg')}}"  class="girl img-responsive" alt="" />
+                                    <img src="{{('public/frontend/images/ps4.jpg')}}"  class="girl img-responsive" alt="" />
                                     <!-- <img src="{{('public/frontend/images/test.png')}}"  class="pricing" alt="" /> -->
                                 </div>
                             </div>
                             <div class="item">
                                 <div class="col-sm-6">
                                     <h1><span>TP</span>-SHOP</h1>
-                                    <h2>Xiaomi Mi Note 10</h2>
+                                    <h2>XBOX 1</h2>
                                     <p>Thiết kế truyền thống </p>
                                     <!-- <button type="button" class="btn btn-default get">Get it now</button> -->
                                 </div>
                                 <div class="col-sm-6">
-                                    <img src="{{('public/frontend/images/note10.jpg')}}" class="girl img-responsive" alt="" />
+                                    <img src="{{('public/frontend/images/xbox1.jpg')}}" class="girl img-responsive" alt="" />
                                     <!-- <img align="right" src="{{('public/frontend/images/test.png')}}"  class="pricing" alt="" /> -->
                                 </div>
                             </div>
@@ -215,12 +215,12 @@
                             <div class="item">
                                 <div class="col-sm-6">
                                     <h1><span>TP</span>-SHOP</h1>
-                                    <h2>Samsung Galaxy s10+</h2>
-                                    <p>3 camera sau, không chỉ là chụp ảnh</p>
+                                    <h2>PS5</h2>
+                                    <p>Thiết kế tinh tế, chơi không giới hạn</p>
                                     <!-- <button type="button" class="btn btn-default get">Get it now</button> -->
                                 </div>
                                 <div class="col-sm-6">
-                                    <img src="{{('public/frontend/images/ss10.png')}}" class="girl img-responsive" alt="" />
+                                    <img src="{{('public/frontend/images/ps5.jpg')}}" class="girl img-responsive" alt="" />
                                     <!-- <img src="{{('public/frontend/images/test.png')}}" class="pricing" alt="" /> -->
                                 </div>
                             </div>
